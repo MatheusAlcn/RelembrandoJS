@@ -12,6 +12,12 @@ Ah, e um aviso importante:
 ⚠️ **Não espere códigos bonitos e bem estruturados por aqui!**  
 Vai ter bagunça, `console.log()` em excesso e talvez um pouco de vergonha alheia.
 
+## 🤨 Aah, por que você está voltando a estudar JavaScript?
+
+Porque eu preciso aprender **Node.js**...  
+E pra isso, eu tenho que fazer as pazes com o JavaScript.  
+Tá na hora de **resolver nossos "callbacks" não resolvidos do passado** 🥲
+
 ## 🚧 O que você vai ver aqui?
 
 - Códigos que talvez funcionem  
