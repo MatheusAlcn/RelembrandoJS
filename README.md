@@ -8,6 +8,10 @@
 Seja bem-vindo(a) ao meu repositório de **"Reaprendizado intensivo de JavaScript com pitadas de desespero"**.  
 Aqui eu, Matheus, estou relembrando (e talvez reaprendendo do zero) JavaScript, aquela linguagem maravilhosa que te deixa fazer `1 + '1' = 11` e achar isso **normal**.
 
+Ah, e um aviso importante:  
+⚠️ **Não espere códigos bonitos e bem estruturados por aqui!**  
+Vai ter bagunça, `console.log()` em excesso e talvez um pouco de vergonha alheia.
+
 ## 🚧 O que você vai ver aqui?
 
 - Códigos que talvez funcionem  
@@ -35,8 +39,11 @@ Aqui eu, Matheus, estou relembrando (e talvez reaprendendo do zero) JavaScript, 
 
 ## ☕ Bora trocar ideia?
 
-Me acha aqui no GitHub mesmo ou me chama no LinkedIn.  
+Me acha aqui no GitHub mesmo ou me chama no LinkedIn:  
+🔗 [Meu LinkedIn](https://www.linkedin.com/in/matheus-alcantara-/)
+
 E se quiser só espiar e rir, também tá liberado 😄
 
-🔗 [Meu LinkedIn](https://www.linkedin.com/in/matheus-alcantara-/)
+
+
 
